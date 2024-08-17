@@ -1,0 +1,25 @@
+@media screen and (max-width:950px) {
+    ul{
+        display: none;
+    }
+    .logo{
+        margin-left: 25px;
+    }
+    .images{
+        display: flex;
+        flex-direction: column;
+    }
+    .right{
+        display: none;
+    }
+    .right-footer{
+        display: none;
+    }
+    .left-footer{
+        text-align: center;
+        width: 100%;
+    }
+    .left{
+        text-align: center;
+    }
+}
